@@ -9,9 +9,9 @@
 3. Pull (sync) repo
    git pullgit 
 4. Xoá floder / file
-   rm -r <floder/file>
-   git rm -r --cached <floder/file>
-   git commit -m "<noidungxoa>"
+  1) rm -r <floder/file>
+  2) git rm -r --cached <floder/file>
+  3) git commit -m "<noidungxoa>"
 
 
 
